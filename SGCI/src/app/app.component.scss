@@ -1,0 +1,15 @@
+mat-sidenav {
+  width: 200px;
+}
+
+mat-sidenav-content {
+  background-image: url('../img/bg.jpg');
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+mat-sidenav-container {
+  height: 100%;
+}
